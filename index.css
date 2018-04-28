@@ -1,0 +1,45 @@
+.mom {
+    background-color:yellow;
+    height: 250px;
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.first{
+    background-color:green;
+    height: 150px; 
+    width: 150px;
+}
+
+.second{
+     background-color:red;
+    height: 150px; 
+    width: 150px;
+}
+.third{
+     background-color:blue;
+    height: 150px; 
+    width: 650px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.t-first{
+    background-color:greenyellow;
+    height: 80px; 
+    width: 100px;
+}
+.t-second{
+    background-color:greenyellow;
+    height: 80px; 
+    width: 100px;
+}
+
+.t-third{
+    background-color:greenyellow;
+    height: 80px; 
+    width: 100px;
+}
